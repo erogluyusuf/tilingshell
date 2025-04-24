@@ -1,0 +1,475 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tiling Shell\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2025-04-24 10:19+0300\n"
+"Last-Translator: Yevhen Popok <xalt7x.service@gmail.com>\n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid ""
+"Add snap assistant and auto-tile buttons in the menu that shows up when you "
+"right click on a window title"
+msgstr ""
+"Bir pencere başlığına sağ tıkladığınızda çıkan menüye hizalama yardımcısı ve "
+"otomatik döşeme düğmeleri ekleyin"
+
+msgid "Add snap assistant and auto-tile buttons to window menu"
+msgstr ""
+"Pencere menüsüne hizalama yardımcısı ve otomatik döşeme düğmeleri ekleyin"
+
+msgid "Animations"
+msgstr "Animasyonlar"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Apply blur effect to Snap Assistant"
+msgstr "Hizalama Yardımcısına bulanıklık efekti uygulayın"
+
+msgid "Apply blur effect to Snap Assistant and tile previews"
+msgstr ""
+"Hizalama Yardımcısı ve döşeme önizlemelerine bulanıklık efekti uygulayın"
+
+msgid "Apply blur effect to selected tile preview"
+msgstr "Seçilen döşeme önizlemesine bulanıklık efekti uygulayın"
+
+msgid "Automatically tile new windows to the best tile"
+msgstr "Yeni pencereleri en uygun döşemeye otomatik olarak yerleştirin"
+
+msgid "Behaviour"
+msgstr "Davranış"
+
+msgid "Blur (experimental feature)"
+msgstr "Bulanıklık (deneysel özellik)"
+
+msgid "Border color"
+msgstr "Kenar rengi"
+
+msgid "Bring back the default layouts"
+msgstr "Varsayılan düzenleri geri getirin"
+
+msgid "Bring back the default settings"
+msgstr "Varsayılan ayarları geri getirin"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Choose the color of the border"
+msgstr "Kenarın rengini seçin"
+
+msgid "Configure the appearance of Tiling Shell"
+msgstr "Döşeme Kabuklarının görünümünü yapılandırın"
+
+msgid "Configure the behaviour of Tiling Shell"
+msgstr "Döşeme Kabuklarının davranışını yapılandırın"
+
+msgid "Configure the layouts of Tiling Shell"
+msgstr "Döşeme Kabuklarının düzenlerini yapılandırın"
+
+msgid "Customize animations"
+msgstr "Animasyonları özelleştirin"
+
+msgid "Donate on ko-fi"
+msgstr "Ko-fi'ye bağış yapın"
+
+msgid "Drag against top edge to maximize window"
+msgstr "Pencereyi büyütmek için üst kenara doğru sürükleyin"
+
+msgid "Drag windows against the top edge to maximize them"
+msgstr "Pencereleri büyütmek için üst kenara doğru sürükleyin"
+
+msgid ""
+"Drag windows against the top, left and right screen edges to resize them"
+msgstr ""
+"Pencereleri yeniden boyutlandırmak için üst, sol ve sağ ekran kenarlarına "
+"doğru sürükleyin"
+
+msgid "Dynamically adapt to the window’s actual border radius"
+msgstr "Pencerenin gerçek kenar yuvarlaklığına dinamik olarak uyum sağlar."
+
+msgid "Edit Layouts"
+msgstr "Düzenleri düzenleyin"
+
+msgid "Edit layouts"
+msgstr "Düzenleri düzenleyin"
+
+msgid "Enable"
+msgstr "Etkinleştir"
+
+msgid "Enable Auto Tiling"
+msgstr "Otomatik Döşemeyi etkinleştirin"
+
+msgid "Enable Snap Assistant"
+msgstr "Hizalama Yardımcısını etkinleştirin"
+
+msgid "Enable Tiling System"
+msgstr "Döşeme Sistemini etkinleştirin"
+
+msgid "Enable and disable windows suggestions"
+msgstr "Pencere önerilerini etkinleştir ve devre dışı bırak"
+
+msgid "Enable auto-resize of the complementing tiled windows"
+msgstr ""
+"Tamamlayıcı döşenmiş pencerelerin otomatik yeniden boyutlandırılmasını "
+"etkinleştirin"
+
+msgid "Enable next/previous window focus to wrap around"
+msgstr "Sonraki/önceki pencere odaklanmasını döngüye almayı etkinleştirin"
+
+msgid "Enable window suggestions for screen edge snapping"
+msgstr "Ekran kenarına yapışma için pencere önerilerini etkinleştirin"
+
+msgid "Enable window suggestions for the snap assistant"
+msgstr "Hizalama Yardımcısı için pencere önerilerini etkinleştirin"
+
+msgid "Enable window suggestions for the tiling system"
+msgstr "Döşeme sistemi için pencere önerilerini etkinleştirin"
+
+msgid "Export layouts"
+msgstr "Düzenleri dışa aktarın"
+
+msgid "Export layouts to a file"
+msgstr "Düzenleri bir dosyaya dışa aktarın"
+
+msgid "Export settings"
+msgstr "Ayarları dışa aktarın"
+
+msgid "Export settings to a file"
+msgstr "Ayarları bir dosyaya dışa aktarın"
+
+msgid "Export settings to a text file"
+msgstr "Ayarları bir metin dosyasına dışa aktarın"
+
+msgid "Focus next window"
+msgstr "Sonraki pencereye odaklanın"
+
+msgid "Focus previous window"
+msgstr "Önceki pencereye odaklanın"
+
+msgid "Focus the window above the current focused window"
+msgstr "Mevcut odaklanmış pencerenin üzerindeki pencereye odaklanın"
+
+msgid "Focus the window below the current focused window"
+msgstr "Mevcut odaklanmış pencerenin altındaki pencereye odaklanın"
+
+msgid "Focus the window next to the current focused window"
+msgstr "Mevcut odaklanmış pencerenin yanındaki pencereye odaklanın"
+
+msgid "Focus the window prior to the current focused window"
+msgstr "Mevcut odaklanmış pencerenin öncesindeki pencereye odaklanın"
+
+msgid "Focus the window to the left of the current focused window"
+msgstr "Mevcut odaklanmış pencerenin solundaki pencereye odaklanın"
+
+msgid "Focus the window to the right of the current focused window"
+msgstr "Mevcut odaklanmış pencerenin sağındaki pencereye odaklanın"
+
+msgid "Focus window above"
+msgstr "Üstteki pencereye odaklanın"
+
+msgid "Focus window below"
+msgstr "Alttaki pencereye odaklanın"
+
+msgid "Focus window to the left"
+msgstr "Soldaki pencereye odaklanın"
+
+msgid "Focus window to the right"
+msgstr "Sağdaki pencereye odaklanın"
+
+msgid "Gaps between a window and the monitor borders"
+msgstr "Bir pencere ile monitör kenarları arasındaki boşluklar"
+
+msgid "Gaps between windows"
+msgstr "Pencereler arasındaki boşluklar"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Have issues, you want to suggest a new feature or contribute?"
+msgstr ""
+"Sorun mu yaşıyorsunuz, yeni bir özellik önermek mi istiyorsunuz yoksa "
+"katkıda bulunmak mı?"
+
+msgid "Highlight focused window"
+msgstr "Odaklanmış pencereyi vurgula"
+
+msgid "Hold the activation key to span multiple tiles"
+msgstr "Aktivasyon tuşunu basılı tutarak birden fazla döşemeye yayılın"
+
+msgid "Hold the activation key while moving a window to tile it"
+msgstr ""
+"Bir pencereyi hareket ettirirken döşemek için aktivasyon tuşunu basılı tutun"
+
+msgid ""
+"Hold the deactivation key while moving a window to deactivate the tiling "
+"system"
+msgstr ""
+"Bir pencereyi hareket ettirirken döşeme sistemini devre dışı bırakmak için "
+"deaktivasyon tuşunu basılı tutun"
+
+msgid "Import layouts"
+msgstr "Düzenleri içe aktarın"
+
+msgid "Import layouts from a file"
+msgstr "Düzenleri bir dosyadan içe aktarın"
+
+msgid "Import settings"
+msgstr "Ayarları içe aktarın"
+
+msgid "Import settings from a file"
+msgstr "Ayarları bir dosyadan içe aktarın"
+
+msgid "Import, export and reset"
+msgstr "İçe aktar, dışa aktar ve sıfırla"
+
+msgid "Import, export and reset the settings of Tiling Shell"
+msgstr ""
+"Tiling Shell ayarlarını içe aktarabilir, dışa aktarabilir veya "
+"sıfırlayabilirsiniz"
+
+msgid "Inner gaps"
+msgstr "İç boşluklar"
+
+msgid "Keybindings"
+msgstr "Klavye kısayolları"
+
+msgid "Layouts"
+msgstr "Düzenler"
+
+msgid "Minimize all the other windows and show only the focused window"
+msgstr ""
+"Diğer tüm pencereleri simge durumuna küçült ve yalnızca odaklanılan "
+"pencereyi göster"
+
+msgid "Minimum distance from the Snap Assistant to the pointer to open it"
+msgstr "Snap Yardımcısı'nın açılması için imlece olan minimum mesafe"
+
+msgid "Move the focused window to the center of the screen"
+msgstr "Odaklanılan pencereyi ekranın ortasına taşı"
+
+msgid "Move the focused window to the tile above"
+msgstr "Odaklanılan pencereyi yukarıdaki döşemeye taşı"
+
+msgid "Move the focused window to the tile below"
+msgstr "Odaklanılan pencereyi aşağıdaki döşemeye taşı"
+
+msgid "Move the focused window to the tile on its left"
+msgstr "Odaklanılan pencereyi solundaki döşemeye taşı"
+
+msgid "Move the focused window to the tile on its right"
+msgstr "Odaklanılan pencereyi sağındaki döşemeye taşı"
+
+msgid "Move the window on top of the screen to snap assist it"
+msgstr "Ekranın üstündeki pencereyi Snap Yardımcısına hizalamak için taşı"
+
+msgid "Move window to left tile"
+msgstr "Pencereyi sol tile (kare) taş"
+
+msgid "Move window to right tile"
+msgstr "Pencereyi sağ tile (kare) taşı"
+
+msgid "Move window to the center"
+msgstr "Pencereyi ortalamaya taşı"
+
+msgid "Move window to tile above"
+msgstr "Pencereyi üstteki tile'a taşı"
+
+msgid "Move window to tile below"
+msgstr "Pencereyi alttaki tile'a taşı"
+
+msgid "New Layout"
+msgstr "Yeni Düzen"
+
+msgid "New accelerator…"
+msgstr "Yeni hızlandırıcı..."
+
+msgid ""
+"Offers suggestions to populate empty tiles when using the snap assistant"
+msgstr "Snap asistanı kullanırken boş kutuları doldurmak için öneriler sunar"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open a new issue on"
+msgstr "Yeni bir sorun aç"
+
+msgid "Open the layouts editor"
+msgstr "Düzenler düzenleyicisini aç"
+
+msgid "Outer gaps"
+msgstr "Dış boşluklar"
+
+msgid ""
+"Provides smart suggestions to fill empty tiles when using the tiling system"
+msgstr ""
+"Döşeme sistemi kullanırken boş olan karoları doldurmak için akıllıca "
+"önerilerde bulunur"
+
+msgid "Quarter tiling activation area"
+msgstr "Çeyrek döşeme etkinleştirme alanı"
+
+msgid "Report a bug"
+msgstr "Hata bildir"
+
+msgid "Request a feature"
+msgstr "Özellik talebi"
+
+msgid "Reset layouts"
+msgstr "Düzenleri sıfırla"
+
+msgid "Reset settings"
+msgstr "Ayarları sıfırla"
+
+msgid "Restore window size"
+msgstr "Pencere boyutunu geri yükle"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Screen Edges"
+msgstr "Ekran Kenarları"
+
+msgid "Select a text file to import from"
+msgstr "İçe aktarmak için bir metin dosyası seçin"
+
+msgid "Select layouts file"
+msgstr "Düzen dosyasını seçin"
+
+msgid "Selected tile preview"
+msgstr "Seçilen tile önizlemesi"
+
+msgid "Show Indicator"
+msgstr "Göstergeyi Göster"
+
+msgid "Show a border around focused window"
+msgstr "Odaklanmış pencerenin etrafında bir kenarlık göster"
+
+msgid "Smart border radius"
+msgstr "Akıllı kenarlık yarıçapı"
+
+msgid "Snap Assistant"
+msgstr "Snap Yardımcısı"
+
+msgid "Snap Assistant threshold"
+msgstr "Snap Assistant eşik değeri"
+
+msgid "Snap assistant animation time"
+msgstr "Snap assistant animasyon süresi"
+
+msgid "Span multiple tiles"
+msgstr "Birden fazla tile'a yayıl"
+
+msgid "Span the focused window to all the tiles"
+msgstr "Odaklanmış pencereyi tüm tile'lara yay"
+
+msgid "Span the focused window to the tile above"
+msgstr "Odaklanmış pencereyi üst tile'a yay"
+
+msgid "Span the focused window to the tile below"
+msgstr "Odaklanmış pencereyi alt tile'a yay"
+
+msgid "Span the focused window to the tile on its left"
+msgstr "Odaklanmış pencereyi sol tile'a yay"
+
+msgid "Span the focused window to the tile on its right"
+msgstr "Odaklanmış pencereyi sağ tile'a yay"
+
+msgid "Span window above"
+msgstr "Pencereyi yukarıya yay"
+
+msgid "Span window down"
+msgstr "Pencereyi aşağıya yay"
+
+msgid "Span window to all tiles"
+msgstr "Pencereyi tüm alanlara yay"
+
+msgid "Span window to left tile"
+msgstr "Pencereyi sol alana yay"
+
+msgid "Span window to right tile"
+msgstr "Pencereyi sağ alana yay"
+
+msgid "Suggests windows to occupy empty tiles when snapping to screen edges"
+msgstr ""
+"Ekran kenarlarına yapıştırıldığında boş alanları dolduracak pencereleri "
+"önerir"
+
+msgid "Text file"
+msgstr "Metin dosyası"
+
+msgid "The size of the border"
+msgstr "Kenar çubuğunun boyutu"
+
+msgid "The snap assistant animation time in milliseconds"
+msgstr "Snap Assistant animasyon süresi milisaniye cinsinden"
+
+msgid "The tiles animation time in milliseconds"
+msgstr "Karoların animasyon süresi milisaniye cinsinden"
+
+msgid "Tiles animation time"
+msgstr "Karoların animasyon süresi"
+
+msgid "Tiling System deactivation key"
+msgstr "Tiling Sistemi devre dışı bırakma tuşu"
+
+msgid "Untile focused window"
+msgstr "Odaklanmış pencereyi ayrıştır"
+
+msgid "Use Backspace to clear"
+msgstr "Temizlemek için Backspace tuşunu kullan"
+
+msgid "Use hotkeys to perform actions on the focused window"
+msgstr ""
+"Odaklanmış pencere üzerinde işlemler yapmak için kısayol tuşlarını kullan"
+
+msgid "View and Customize Shortcuts"
+msgstr "Kısayolları Görüntüle ve Özelleştir"
+
+msgid "View and Customize all the Shortcuts"
+msgstr "Tüm Kısayolları Görüntüle ve Özelleştir"
+
+msgid ""
+"When a tiled window is resized, auto-resize the other tiled windows near it"
+msgstr ""
+"Bir döşenmiş pencere yeniden boyutlandırıldığında, yakındaki diğer döşenmiş "
+"pencerelerin otomatik olarak yeniden boyutlandırılmasını sağla"
+
+msgid "When focusing next or previous window, wrap around at the window edge"
+msgstr ""
+"Bir sonraki veya önceki pencereye odaklanırken, pencere kenarında döngü "
+"yapmayı sağla"
+
+msgid "Whether to restore the windows to their original size when untiled"
+msgstr ""
+"Pencereler, yerleştirmeden çıkarıldığında orijinal boyutlarına geri dönecek "
+"mi?"
+
+msgid "Whether to show the panel indicator"
+msgstr "Panel göstergesinin gösterilip gösterilmeyeceği"
+
+msgid "Width"
+msgstr "Genişlik"
+
+msgid "Window border"
+msgstr "Pencere kenarlığı"
+
+msgid "Windows suggestions"
+msgstr "Windows önerileri"
+
+msgid "to delete a tile"
+msgstr "Bir karoyu silmek için"
+
+msgid "to split a tile"
+msgstr "Bir karoyu bölmek için"
+
+msgid "to split a tile vertically"
+msgstr "Bir karoyu dikey olarak bölmek için"
+
+msgid "use the indicator button to save or cancel"
+msgstr "İndikatör butonunu kullanarak kaydedebilir veya iptal edebilirsiniz"
